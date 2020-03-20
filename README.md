@@ -1,4 +1,4 @@
-# RAWGraphs-Dataview-Study
+# RAWGraphs Dataview Study
 **Study releated to SARS-COV Data in relation to Shigellosis**
 >>> Repo under construction
 
