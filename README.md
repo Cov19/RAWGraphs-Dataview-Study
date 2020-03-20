@@ -14,8 +14,8 @@ Sort by: Original
 ![N|DataModel1](https://raw.githubusercontent.com/Cov19/RAWGraphs-Dataview-Study/master/DataModel1.png)
 
 ## Dataview #2
-Hierarchy: Reporting Area [String]
-Size: Shigellosis, Cum 2018† [#]
-Color: Location 1 [String]
-Color scale: Ordinal (Categories)
+Hierarchy: Reporting Area [String]  
+Size: Shigellosis, Cum 2018† [#]  
+Color: Location 1 [String]  
+Color scale: Ordinal (Categories)  
 ![N|DataModel2](https://raw.githubusercontent.com/Cov19/RAWGraphs-Dataview-Study/master/DataModel2.png)
