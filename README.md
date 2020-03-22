@@ -11,6 +11,13 @@ Interpolation: Cardinal
 Sort by: Original  
 ![N|DataModel1](https://raw.githubusercontent.com/Cov19/RAWGraphs-Dataview-Study/master/DataModel1.png)
 
+**Key Metrics:**  
+MMWR Week Standard Deviation: 6.0573613857  
+MMWR Week Average/Arthmetic Mean: 11  
+MMWR Week Median: 11  
+MMWR Week Mode: 11  
+The data isn't too symmetrical even though the Mean and Median are equivalent given the fact that the mode seems more of an outlier though it appears the most i.e 1 in comparison to 11. These weekly averages for reporting area, means likely the more critical point related to this study and the SARS-COV contamination in relation to Shigellosis, was in week 11.
+
 ## Dataview #2
 Hierarchy: Reporting Area [String]  
 Size: Shigellosis, Cum 2018† [#]  
